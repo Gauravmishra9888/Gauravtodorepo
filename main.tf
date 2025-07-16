@@ -11,3 +11,4 @@ provider "azurerm"{
     
     features {}
 }
+gaurav bhai is great
