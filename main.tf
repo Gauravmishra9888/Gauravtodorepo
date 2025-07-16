@@ -12,3 +12,5 @@ provider "azurerm"{
     features {}
 }
 gaurav is don
+gaurav bhai is great
+main hu don
